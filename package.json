@@ -14,6 +14,6 @@
     "http-errors": "~1.6.3",
     "leaflet": "^1.9.4",
     "morgan": "~1.9.1",
-    "sweetalert2": "^11.17.2"
+    "sweetalert2": "^11.6.13"
   }
 }
